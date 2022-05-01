@@ -15,4 +15,4 @@ This might include zip of >1GB!
 ## Customized downloads
 A customizable download of specific corpora of treatments in a given format is forthcoming.
 
-At the moment a list of treatment UUIDs can be built using [Plazi Stats](https://tb.plazi.org/GgServer/srsStats). Then build the URL for the treatment using https://treatment.plazi.org/GgServer/XXX/ and download the respective treatments. E.g. for a treatment in taxPubL1: (https://tb.plazi.org/GgServer/taxPubL1/038B87D0FFCD2D479A0CA15D0C6F75A5
+At the moment a list of treatment UUIDs can be built using [Plazi Stats](https://tb.plazi.org/GgServer/srsStats). Then build the URL for the treatment using https://treatment.plazi.org/GgServer/XXX/ and download the respective treatments. E.g. for a treatment in taxPubL1:  https://tb.plazi.org/GgServer/taxPubL1/038B87D0FFCD2D479A0CA15D0C6F75A5
