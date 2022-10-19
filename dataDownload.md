@@ -2,6 +2,9 @@
 This might include zip of >1GB!
 * This is the overview pages to the [Treatment dump](https://tb.plazi.org/dumps/) including access to various formats. 
 
+GoldenGate XML: [Treatments XML](https://github.com/plazi/treatments-xml): continuously updated
+RDF: [Treatments RDF](https://github.com/plazi/treatments-rdf): continuously updated
+
 ## Machine readable access
 * [Darwin Core Archive HTTP GET](http://plazi.org/treatmentbank/treatment-data-access/)
 * To get access to results from the webservices in TaxPub, simply append `?dataFormat=TTP_XML` to the result download URL ... the format is available for all three services in question, and it should give you pretty much the input XML, plus whatever the tagger added
@@ -9,7 +12,7 @@ This might include zip of >1GB!
    * [TaxPub Level 1](https://github.com/plazi/ggxml2taxpub-treatments/blob/main/taxpub%20levels.md): `taxPubL1`
    * Html: `html`
    * XML: `xml`
-* List of updates [timestamps of changes](https://tb.plazi.org/GgServer/lodData/listFull?updatedSince=1646697601000); repalce timestamp with the [desired date](https://www.epochconverter.com/) 
+* List of updates [timestamps of changes](https://tb.plazi.org/GgServer/lodData/listFull?updatedSince=1646697601000); replace timestamp with the [desired date](https://www.epochconverter.com/) 
 * List of new or changed or deleted treatments UUID with lodRDF available [Link](https://tb.plazi.org/GgServer/lodData/038B87D0FFCD2D479A0CA15D0C6F75A5)
 
 ## Customized downloads
