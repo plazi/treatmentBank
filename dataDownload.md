@@ -6,6 +6,8 @@ GoldenGate XML: [Treatments XML](https://github.com/plazi/treatments-xml): conti
 RDF: [Treatments RDF](https://github.com/plazi/treatments-rdf): continuously updated
 
 ## Machine readable access
+* Plazi API [description](https://docs.google.com/document/d/1FsDTUuiSBXFRYsqo7E-w3p7KvGy6FKM7LsX8aTfDMKY/edit)
+* Zenodeo API [description](https://docs.google.com/document/d/16MEp-n85bjT0uQeYFp8kCUo_ZMd6PeIGHlNtcHEG1_o/edit)
 * [Darwin Core Archive HTTP GET](http://plazi.org/treatmentbank/treatment-data-access/)
 * To get access to results from the webservices in TaxPub, simply append `?dataFormat=TTP_XML` to the result download URL ... the format is available for all three services in question, and it should give you pretty much the input XML, plus whatever the tagger added
 * Different flavors of treatments are available by changing the XXX in this URL: `https://treatment.plazi.org/GgServer/XXX/885887A2FFFE8A18F8B4FCA2F30BD6BB`
